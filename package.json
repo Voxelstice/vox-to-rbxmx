@@ -1,0 +1,15 @@
+{
+  "name": "vox-rbxmx",
+  "version": "1.0.0",
+  "description": "Convert MagicaVoxel VOX file formats to RBXMX formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Voxelstice",
+  "license": "MIT",
+  "dependencies": {
+    "parse-magica-voxel": "^2.1.2",
+    "xml2js": "^0.5.0"
+  }
+}
