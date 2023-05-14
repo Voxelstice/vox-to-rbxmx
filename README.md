@@ -8,4 +8,14 @@ Unfortunately, I do not know how to do that nor do I have the time to figure it 
 The color selection math is also kinda inaccurate but hey, it works!
 
 # How to use
+Download or clone the repo using Git.
+
 Run this in the command prompt:
+```
+npm i
+```
+This will install all of the packages for you. (its like 2 but idc!!!)
+
+All you then have to do is put a MagicaVoxel file in the same folder as the index.js file and rename the file to ``input.vox``.
+
+Then you have to run ``node .`` and you will get the resulting file: ``output.rbxmx``.
